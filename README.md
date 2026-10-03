@@ -2,7 +2,9 @@
 
 **Applied Research Engineer**
 
-I build practical systems and automation, with a background spanning cloud engineering, senior cloud engineering, and cloud solutions architecture.
+I build practical systems and automation, drawing on my background in cloud architecture and platform engineering.
+
+**Career path:** Cloud Engineer → Senior Cloud Engineer → Cloud Solutions Architect → Applied Research Engineer.
 
 **AWS Certified Solutions Architect – Professional**
 
