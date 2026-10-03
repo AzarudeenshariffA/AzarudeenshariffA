@@ -1,10 +1,10 @@
 # Azarudeen Shariff
 
-**Cloud / Platform Engineer · AWS & Azure · Infrastructure automation**
+**Applied Research Engineer · Cloud & Platform Engineering**
 
-I build cloud platforms, developer tooling, and automation that make infrastructure easier to operate. I have 3+ years of experience across AWS and Azure, working on cloud migrations, multi-account governance, Kubernetes, CI/CD, and identity lifecycle automation.
+I am an Applied Research Engineer with a background in cloud and platform engineering. My experience spans AWS and Azure, cloud migrations, multi-account governance, Kubernetes, CI/CD, and identity lifecycle automation.
 
-Currently a Platform Engineer at **zeb**, previously at **AVASOFT**. **AWS Certified Solutions Architect – Professional**.
+My Cloud/Platform engineering experience includes work at **zeb** and **AVASOFT**. **AWS Certified Solutions Architect – Professional**.
 
 ## What I work on
 
