@@ -2,15 +2,15 @@
 
 **Applied Research Engineer**
 
-I have a background in cloud and platform engineering across AWS and Azure, with experience in infrastructure automation, Kubernetes, CI/CD, cloud migrations, and identity and access workflows.
+I build practical systems and automation, with a background spanning cloud engineering, senior cloud engineering, and cloud solutions architecture.
 
 **AWS Certified Solutions Architect – Professional**
 
-## Areas of experience
+## Engineering background
 
-- Cloud architecture, platform engineering, and infrastructure as code.
-- Automation, DevSecOps, observability, and reliability.
-- Open-source development and practical developer tooling.
+- AWS and Azure cloud architecture, Kubernetes, and Terraform.
+- Python automation, CI/CD, DevSecOps, and developer tooling.
+- Secure access workflows, cloud migrations, observability, and reliability.
 
 ## Recent pull requests
 
